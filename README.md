@@ -1,2 +1,2 @@
 # madlibs_generator
-Created a Python-based Mad Libs Generator that reads a template story, identifies placeholders, and replaces them with user inputs to generate personalized narratives. Demonstrated expertise in file handling, string manipulation, and user interaction.
+This project is a **Mad Libs Generator**, a fun and interactive program where users create a humorous or nonsensical story by filling in placeholders with their own words. The program reads a template story from a file and identifies placeholders enclosed in `<` and `>`. It then prompts users to provide words for these placeholders and replaces them in the story, creating a personalized and unique narrative. It's a simple, engaging way to explore creativity and have fun with storytelling.
